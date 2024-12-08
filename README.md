@@ -52,6 +52,8 @@ Follow the steps below to run this project locally.
 ```
 password-generator/
 ├── src/
+|   ├── assets
+        ├──password-generator-screenshot.png
 │   ├── App.js          # Main application file
 │   ├── index.js        # Entry point
 │   └── styles.css      # Styling for the application
